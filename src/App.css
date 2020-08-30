@@ -1,3 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans&display=swap");
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 10vh;
+  background: rgb(73, 79, 82);
+  color: white;
+}
+.nav-links {
+  width: 50%;
+  display: flex;
+  justify-content: space-around;
+  /* margin-right: 1px; */
+  align-items: center;
+  list-style: none;
+}
+.color-nav {
+  background-color: rgb(17, 203, 215);
+}
+.rows {
+  display: flex;
+  flex-direction: row;
+}
+.title {
+  text-align: center;
+  padding-top: 3%;
+}
+body {
+  font-family: "Work Sans", sans-serif;
+}
+/* html,
+body,
+#me,
+#me > div {
+  height: 100%;
+}
+
+.about {
+  height: 100%;
+} */
+
 .App {
   text-align: center;
 }
