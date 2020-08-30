@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a329d843.chunk.css",
+    "main.js": "/static/js/main.1cd9586e.chunk.js",
+    "main.js.map": "/static/js/main.1cd9586e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3010160c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3010160c.js.map",
+    "static/css/2.f3cffc9e.chunk.css": "/static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.503611ae.chunk.js": "/static/js/2.503611ae.chunk.js",
+    "static/js/2.503611ae.chunk.js.map": "/static/js/2.503611ae.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b03617603c172a56e9050ba0297f5814.js": "/precache-manifest.b03617603c172a56e9050ba0297f5814.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.f3cffc9e.chunk.css.map": "/static/css/2.f3cffc9e.chunk.css.map",
+    "static/css/main.a329d843.chunk.css.map": "/static/css/main.a329d843.chunk.css.map",
+    "static/js/2.503611ae.chunk.js.LICENSE.txt": "/static/js/2.503611ae.chunk.js.LICENSE.txt",
+    "static/media/ambitionsimulator.png": "/static/media/ambitionsimulator.9bdd5912.png",
+    "static/media/blossom.jpg": "/static/media/blossom.fa511e38.jpg",
+    "static/media/cloudchat.png": "/static/media/cloudchat.a9d83df3.png",
+    "static/media/diagnosisbot.png": "/static/media/diagnosisbot.1ab14cce.png",
+    "static/media/email.png": "/static/media/email.b8f5fe74.png",
+    "static/media/facebook.png": "/static/media/facebook.3c341790.png",
+    "static/media/github.png": "/static/media/github.0058785c.png",
+    "static/media/laurier.png": "/static/media/laurier.5a271aab.png",
+    "static/media/linkedin.png": "/static/media/linkedin.0d6bac08.png",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
+    "static/media/mealrelief.jpg": "/static/media/mealrelief.541dc2ab.jpg",
+    "static/media/scroll.gif": "/static/media/scroll.1718e847.gif",
+    "static/media/shoppingbuddy.png": "/static/media/shoppingbuddy.5179da4b.png",
+    "static/media/waterloo.png": "/static/media/waterloo.50a46a6c.png",
+    "static/media/youtube.png": "/static/media/youtube.5f193e4b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3010160c.js",
+    "static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.503611ae.chunk.js",
+    "static/css/main.a329d843.chunk.css",
+    "static/js/main.1cd9586e.chunk.js"
+  ]
+}
