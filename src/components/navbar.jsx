@@ -1,31 +1,32 @@
-import React from "react";
+import React, { Component } from "react";
 import "../App.css";
 import "bootstrap/dist/css/bootstrap.css";
 import { Navbar, Button, Image } from "react-bootstrap";
+import Scroll from "react-scroll";
+const ScrollLink = Scroll.ScrollLink;
 
-function Nav() {
-  const navStyle = {
-    color: "white",
-  };
-  return (
-    <Navbar sticky="top" className="color-nav" variant="dark">
-      <Navbar.Brand>Sydnie Chau</Navbar.Brand>
-      <Navbar.Toggle />
-      <Navbar.Collapse className="justify-content-end">
-        <Button
-          variant="outline-light"
-          href="https://resume.creddle.io/resume/axa9bjbgti9"
-        >
-          Resume
-        </Button>
-      </Navbar.Collapse>
-    </Navbar>
-  );
+class Nav extends Component {
+  // handleScroll = () => {
+  //   const anchor = document.querySelector("#some-id");
+  //   anchor.scrollIntoView({ behavior: "smooth", block: "center" });
+  // };
+  render() {
+    return (
+      <Navbar sticky="top" className="color-nav" variant="dark">
+        <Navbar.Brand>Sydnie Chau</Navbar.Brand>
+
+        <Navbar.Toggle />
+        <Navbar.Collapse className="justify-content-end">
+          <Button
+            variant="outline-light"
+            href="https://resume.creddle.io/resume/axa9bjbgti9"
+          >
+            Resume
+          </Button>
+        </Navbar.Collapse>
+      </Navbar>
+    );
+  }
 }
 
 export default Nav;
-
-const imgstyle = {
-  maxHeight: "80px",
-  paddingLeft: "10%",
-};

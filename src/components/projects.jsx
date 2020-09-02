@@ -48,8 +48,18 @@ function Project() {
               A website that lets you track any prices of products currently in
               your cart and alerts you about ongoing sales.
             </Card.Text>
-            <Button variant="primary">Demo</Button>{" "}
-            <Button variant="primary">Github</Button>{" "}
+            <Button
+              href="https://www.youtube.com/watch?v=kThyhN4Vbho&feature=youtu.be"
+              variant="primary"
+            >
+              Demo
+            </Button>{" "}
+            <Button
+              href="https://github.com/sydnieec/ShoppingBuddy"
+              variant="primary"
+            >
+              Github
+            </Button>{" "}
           </Card.Body>
           <Card.Footer>
             <small className="text-muted">
@@ -75,12 +85,19 @@ function Project() {
             <Card.Title>Blossom</Card.Title>
             <Card.Text>
               A pocket garden as an IOS app! Visually recognise any plants or
-              diagnosis your plants health by uploading a photo, and keep a
+              diagnose your plant's health by uploading a photo, and keep a
               collection of your plant history as well as special flowers you've
               seen around the world!
             </Card.Text>
-            <Button variant="primary">Demo</Button>{" "}
-            <Button variant="primary">Github</Button>{" "}
+            <Button href="https://youtu.be/CeueAq2ABUA " variant="primary">
+              Demo
+            </Button>{" "}
+            <Button
+              href="https://github.com/sydnieec/Blossom"
+              variant="primary"
+            >
+              Github
+            </Button>{" "}
           </Card.Body>
           <Card.Footer>
             <small className="text-muted">
@@ -109,8 +126,15 @@ function Project() {
               Diagnosis Bot is a chatbot that is designed to give users a short,
               safe an anonymous health checkup simply from their app.
             </Card.Text>
-            <Button variant="primary">Demo</Button>{" "}
-            <Button variant="primary">Github</Button>{" "}
+            <Button href="https://youtu.be/sxsP0BuF8LE" variant="primary">
+              Demo
+            </Button>{" "}
+            <Button
+              href="https://github.com/sydnieec/Diagnosis-Bot"
+              variant="primary"
+            >
+              Github
+            </Button>{" "}
           </Card.Body>
           <Card.Footer>
             <small className="text-muted">
@@ -148,8 +172,15 @@ function Project() {
               Cloud Chat is a live messaging android application designed to
               connect groups of people with similar interests.
             </Card.Text>
-            <Button variant="primary">Demo</Button>{" "}
-            <Button variant="primary">Github</Button>{" "}
+            <Button href="https://youtu.be/SL-XvJIhgmY" variant="primary">
+              Demo
+            </Button>{" "}
+            <Button
+              href="https://github.com/sydnieec/CloudChat"
+              variant="primary"
+            >
+              Github
+            </Button>{" "}
           </Card.Body>
           <Card.Footer>
             <small className="text-muted">
@@ -180,8 +211,18 @@ function Project() {
               develop their budgeting, investment, and money management skills
               as a method to promote financial literacy.
             </Card.Text>
-            <Button variant="primary">Demo</Button>{" "}
-            <Button variant="primary">Github</Button>{" "}
+            <Button
+              href="https://sydnieec.github.io/AmbitionSimulator/"
+              variant="primary"
+            >
+              Play
+            </Button>{" "}
+            <Button
+              href="https://github.com/sydnieec/AmbitionSimulator"
+              variant="primary"
+            >
+              Github
+            </Button>{" "}
           </Card.Body>
           <Card.Footer>
             <small className="text-muted">
@@ -208,8 +249,18 @@ function Project() {
               Users can then search for food near their location and anonymously
               claim free meals.
             </Card.Text>
-            <Button variant="primary">Demo</Button>{" "}
-            <Button variant="primary">Github</Button>{" "}
+            <Button
+              href="https://devpost.com/software/mealrelief-kwn46i"
+              variant="primary"
+            >
+              Demo
+            </Button>{" "}
+            <Button
+              href="https://github.com/SPriyaJain/ht6-2020"
+              variant="primary"
+            >
+              Github
+            </Button>{" "}
           </Card.Body>
           <Card.Footer>
             <small className="text-muted">#Javascript #React #Azure Maps</small>

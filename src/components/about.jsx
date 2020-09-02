@@ -1,10 +1,11 @@
 import React from "react";
 import "../App.css";
 import "bootstrap/dist/css/bootstrap.css";
+import { Element } from "react-scroll";
 
 function About() {
   return (
-    <div className="about">
+    <div id="some=id" name="example-destination">
       <h1
         style={{
           display: "flex",
