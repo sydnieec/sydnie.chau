@@ -30,6 +30,13 @@ nav {
 body {
   font-family: "Work Sans", sans-serif;
 }
+.center {
+  text-align: center;
+  display: block;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
 /* html,
 body,
 #me,

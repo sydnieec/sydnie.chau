@@ -15,45 +15,36 @@ function Me() {
       >
         Sydnie Chau
       </h1>
-      <h3
-        style={{
-          display: "flex",
-          justifyContent: "center",
-          alignItems: "center",
-        }}
-      >
-        {" "}
-        Student Software Developer
-      </h3>
-      <div style={{ marginLeft: "39%", paddingTop: "5%" }}>
+      <h3 className="center">Student Software Developer</h3>
+      <div className="center" style={{ paddingTop: "3%" }}>
         <a href="https://www.linkedin.com/in/sydniechau">
           <img
-            style={{ maxWidth: "6.5%", maxHeight: "6.5%", paddingRight: "1%" }}
+            style={{ maxWidth: "5%", maxHeight: "5%", paddingRight: "1%" }}
             src={require("../images/linkedin.png")}
           />
         </a>
         <a href="https://www.facebook.com/sydnie.chau">
           <img
-            style={{ maxWidth: "7%", maxHeight: "7%", paddingRight: "1%" }}
+            style={{ maxWidth: "5%", maxHeight: "5%", paddingRight: "1%" }}
             src={require("../images/facebook.png")}
           />
         </a>
         <a href="  https://github.com/sydnieec ">
           <img
-            style={{ maxWidth: "7%", maxHeight: "7%", paddingRight: "1%" }}
+            style={{ maxWidth: "5%", maxHeight: "5%", paddingRight: "1%" }}
             src={require("../images/github.png")}
           />
         </a>
         <a href="mailto:sydnie.chau@gmail.com">
           <img
-            style={{ maxWidth: "7%", maxHeight: "7%", paddingRight: "1%" }}
+            style={{ maxWidth: "5%", maxHeight: "5%", paddingRight: "1%" }}
             src={require("../images/emailicon1.png")}
           />
         </a>
 
         <a href="https://www.youtube.com/channel/UCu4_FpUOJeAR4skiRGsi3SQ">
           <img
-            style={{ maxWidth: "7%", maxHeight: "7%", paddingRight: "1%" }}
+            style={{ maxWidth: "5%", maxHeight: "5%", paddingRight: "1%" }}
             src={require("../images/youtube.png")}
           />
         </a>
@@ -61,12 +52,12 @@ function Me() {
       <a href="#about">
         <img
           style={{
-            paddingLeft: "46%",
             maxWidth: "125%",
             maxHeight: "15%",
             paddingTop: "5%",
           }}
           src={require("../images/scroll.gif")}
+          className="center"
         />
       </a>
     </div>

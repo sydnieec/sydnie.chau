@@ -31,8 +31,6 @@ function Education() {
           display: "flex",
           justifyContent: "center",
           alignItems: "center",
-          paddingLeft: "15%",
-          paddingRight: "15%",
         }}
       >
         University of Waterloo and Wilfrid Laurier University
@@ -42,8 +40,6 @@ function Education() {
           display: "flex",
           justifyContent: "center",
           alignItems: "center",
-          paddingLeft: "15%",
-          paddingRight: "15%",
         }}
       >
         Honours Bachelor of Computer Science and Business Administration Double
