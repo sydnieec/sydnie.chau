@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/sydnie.chau/static/css/main.a329d843.chunk.css",
-    "main.js": "/sydnie.chau/static/js/main.3eb8b0de.chunk.js",
-    "main.js.map": "/sydnie.chau/static/js/main.3eb8b0de.chunk.js.map",
+    "main.js": "/sydnie.chau/static/js/main.c1387c0d.chunk.js",
+    "main.js.map": "/sydnie.chau/static/js/main.c1387c0d.chunk.js.map",
     "runtime-main.js": "/sydnie.chau/static/js/runtime-main.3576f03d.js",
     "runtime-main.js.map": "/sydnie.chau/static/js/runtime-main.3576f03d.js.map",
     "static/css/2.f3cffc9e.chunk.css": "/sydnie.chau/static/css/2.f3cffc9e.chunk.css",
-    "static/js/2.503611ae.chunk.js": "/sydnie.chau/static/js/2.503611ae.chunk.js",
-    "static/js/2.503611ae.chunk.js.map": "/sydnie.chau/static/js/2.503611ae.chunk.js.map",
+    "static/js/2.6666bee0.chunk.js": "/sydnie.chau/static/js/2.6666bee0.chunk.js",
+    "static/js/2.6666bee0.chunk.js.map": "/sydnie.chau/static/js/2.6666bee0.chunk.js.map",
     "index.html": "/sydnie.chau/index.html",
-    "precache-manifest.096b1556580322055a1e1734e74ca561.js": "/sydnie.chau/precache-manifest.096b1556580322055a1e1734e74ca561.js",
+    "precache-manifest.29878a9f982a2b47fd79d55ba8ad9160.js": "/sydnie.chau/precache-manifest.29878a9f982a2b47fd79d55ba8ad9160.js",
     "service-worker.js": "/sydnie.chau/service-worker.js",
     "static/css/2.f3cffc9e.chunk.css.map": "/sydnie.chau/static/css/2.f3cffc9e.chunk.css.map",
     "static/css/main.a329d843.chunk.css.map": "/sydnie.chau/static/css/main.a329d843.chunk.css.map",
-    "static/js/2.503611ae.chunk.js.LICENSE.txt": "/sydnie.chau/static/js/2.503611ae.chunk.js.LICENSE.txt",
+    "static/js/2.6666bee0.chunk.js.LICENSE.txt": "/sydnie.chau/static/js/2.6666bee0.chunk.js.LICENSE.txt",
     "static/media/ambitionsimulator.png": "/sydnie.chau/static/media/ambitionsimulator.9bdd5912.png",
     "static/media/blossom.jpg": "/sydnie.chau/static/media/blossom.fa511e38.jpg",
     "static/media/cloudchat.png": "/sydnie.chau/static/media/cloudchat.a9d83df3.png",
     "static/media/diagnosisbot.png": "/sydnie.chau/static/media/diagnosisbot.1ab14cce.png",
-    "static/media/email.png": "/sydnie.chau/static/media/email.b8f5fe74.png",
+    "static/media/emailicon1.png": "/sydnie.chau/static/media/emailicon1.91b2f526.png",
     "static/media/facebook.png": "/sydnie.chau/static/media/facebook.3c341790.png",
     "static/media/github.png": "/sydnie.chau/static/media/github.0058785c.png",
     "static/media/laurier.png": "/sydnie.chau/static/media/laurier.5a271aab.png",
@@ -33,8 +33,8 @@
   "entrypoints": [
     "static/js/runtime-main.3576f03d.js",
     "static/css/2.f3cffc9e.chunk.css",
-    "static/js/2.503611ae.chunk.js",
+    "static/js/2.6666bee0.chunk.js",
     "static/css/main.a329d843.chunk.css",
-    "static/js/main.3eb8b0de.chunk.js"
+    "static/js/main.c1387c0d.chunk.js"
   ]
 }
