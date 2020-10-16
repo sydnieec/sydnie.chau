@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "59b8aedb02f3777260c49ad8b83f3634",
+    "revision": "b6c2cb361b08b47c380259431879d0a6",
     "url": "/sydnie.chau/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sydnie.chau/static/css/2.f3cffc9e.chunk.css"
   },
   {
-    "revision": "a35b8400a4b91ac2f040",
-    "url": "/sydnie.chau/static/css/main.c9a4219f.chunk.css"
+    "revision": "ee82f7a4236e7fb623e9",
+    "url": "/sydnie.chau/static/css/main.ea179db2.chunk.css"
   },
   {
     "revision": "d45ee3d7f9f5317bf761",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sydnie.chau/static/js/2.7de9531c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a35b8400a4b91ac2f040",
+    "revision": "ee82f7a4236e7fb623e9",
     "url": "/sydnie.chau/static/js/main.0788255b.chunk.js"
   },
   {
