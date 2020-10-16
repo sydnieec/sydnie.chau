@@ -4,7 +4,7 @@ import "bootstrap/dist/css/bootstrap.css";
 
 function Education() {
   return (
-    <div>
+    <div className="education">
       <h1
         style={{
           display: "flex",

@@ -37,6 +37,16 @@ body {
   align-items: center;
   margin: auto;
 }
+.about {
+  height: 100vh;
+  background-color: rgb(227, 254, 255);
+}
+.projects {
+  background-color: rgb(242, 255, 254);
+}
+.education {
+  background-color: rgb(227, 254, 255);
+}
 /* html,
 body,
 #me,

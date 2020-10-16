@@ -7,11 +7,11 @@ import Button from "react-bootstrap/Button";
 
 function Project() {
   return (
-    <div>
+    <div className="projects" id="projects">
       <h1
         style={{
           display: "flex",
-          paddingTop: "15%",
+          paddingTop: "5%",
           paddingLeft: "5%",
           color: "#11cbd7",
         }}

@@ -1,6 +1,7 @@
 import React from "react";
 import "../App.css";
 import "bootstrap/dist/css/bootstrap.css";
+import { Link } from "react-scroll";
 
 function Me() {
   return (
@@ -49,7 +50,16 @@ function Me() {
           />
         </a>
       </div>
-      <a href="#about">
+      <Link
+        style={{
+          paddingLeft: "2%",
+        }}
+        to="about"
+        spy={true}
+        smooth={true}
+        offset={-70}
+        duration={500}
+      >
         <img
           style={{
             maxWidth: "125%",
@@ -59,7 +69,7 @@ function Me() {
           src={require("../images/scroll.gif")}
           className="center"
         />
-      </a>
+      </Link>
     </div>
   );
 }

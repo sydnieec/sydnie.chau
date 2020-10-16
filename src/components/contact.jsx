@@ -4,7 +4,7 @@ import "bootstrap/dist/css/bootstrap.css";
 
 function Contact() {
   return (
-    <div className="contact" style={{ backgroundColor: "#c6f1e7" }}>
+    <div className="contact" style={{ backgroundColor: "#ffff" }}>
       <h1
         style={{
           display: "flex",
@@ -54,7 +54,7 @@ function Contact() {
           justifyContent: "center",
           alignItems: "center",
           paddingTop: "1%",
-          paddingBottom: "7%",
+          paddingBottom: "5%",
         }}
       >
         © Sydnie Chau 2020

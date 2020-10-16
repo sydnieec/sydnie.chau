@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import "../App.css";
 import "bootstrap/dist/css/bootstrap.css";
 import { Navbar, Button, Image } from "react-bootstrap";
+import { Link } from "react-scroll";
 import Scroll from "react-scroll";
 const ScrollLink = Scroll.ScrollLink;
 
@@ -14,7 +15,30 @@ class Nav extends Component {
     return (
       <Navbar sticky="top" className="color-nav" variant="dark">
         <Navbar.Brand>Sydnie Chau</Navbar.Brand>
-
+        <Link
+          style={{
+            paddingLeft: "2%",
+          }}
+          to="about"
+          spy={true}
+          smooth={true}
+          offset={-70}
+          duration={500}
+        >
+          About
+        </Link>
+        <Link
+          style={{
+            paddingLeft: "2%",
+          }}
+          to="projects"
+          spy={true}
+          smooth={true}
+          offset={-70}
+          duration={500}
+        >
+          Projects
+        </Link>
         <Navbar.Toggle />
         <Navbar.Collapse className="justify-content-end">
           <Button

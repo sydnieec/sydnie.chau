@@ -5,11 +5,11 @@ import { Element } from "react-scroll";
 
 function About() {
   return (
-    <div id="some=id" name="example-destination">
+    <div className="about" id="about" name="example-destination">
       <h1
         style={{
           display: "flex",
-          paddingTop: "15%",
+          paddingTop: "5%",
           paddingLeft: "5%",
           color: "#11cbd7",
         }}
@@ -23,7 +23,7 @@ function About() {
           alignItems: "center",
           paddingLeft: "15%",
           paddingRight: "15%",
-          paddingTop: "5%",
+          paddingTop: "10%",
         }}
       >
         👋 Hi, I'm Sydnie! I am currently 1A student at the University of
