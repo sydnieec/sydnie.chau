@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/sydnie.chau/static/css/main.c9a4219f.chunk.css",
-    "main.js": "/sydnie.chau/static/js/main.1fc55fb8.chunk.js",
-    "main.js.map": "/sydnie.chau/static/js/main.1fc55fb8.chunk.js.map",
+    "main.js": "/sydnie.chau/static/js/main.0788255b.chunk.js",
+    "main.js.map": "/sydnie.chau/static/js/main.0788255b.chunk.js.map",
     "runtime-main.js": "/sydnie.chau/static/js/runtime-main.3576f03d.js",
     "runtime-main.js.map": "/sydnie.chau/static/js/runtime-main.3576f03d.js.map",
     "static/css/2.f3cffc9e.chunk.css": "/sydnie.chau/static/css/2.f3cffc9e.chunk.css",
-    "static/js/2.1f9578ac.chunk.js": "/sydnie.chau/static/js/2.1f9578ac.chunk.js",
-    "static/js/2.1f9578ac.chunk.js.map": "/sydnie.chau/static/js/2.1f9578ac.chunk.js.map",
+    "static/js/2.7de9531c.chunk.js": "/sydnie.chau/static/js/2.7de9531c.chunk.js",
+    "static/js/2.7de9531c.chunk.js.map": "/sydnie.chau/static/js/2.7de9531c.chunk.js.map",
     "index.html": "/sydnie.chau/index.html",
-    "precache-manifest.594e149f26885597e8c2c33d738581b9.js": "/sydnie.chau/precache-manifest.594e149f26885597e8c2c33d738581b9.js",
+    "precache-manifest.c218dbac309fade46d814732371e6aa0.js": "/sydnie.chau/precache-manifest.c218dbac309fade46d814732371e6aa0.js",
     "service-worker.js": "/sydnie.chau/service-worker.js",
     "static/css/2.f3cffc9e.chunk.css.map": "/sydnie.chau/static/css/2.f3cffc9e.chunk.css.map",
     "static/css/main.c9a4219f.chunk.css.map": "/sydnie.chau/static/css/main.c9a4219f.chunk.css.map",
-    "static/js/2.1f9578ac.chunk.js.LICENSE.txt": "/sydnie.chau/static/js/2.1f9578ac.chunk.js.LICENSE.txt",
+    "static/js/2.7de9531c.chunk.js.LICENSE.txt": "/sydnie.chau/static/js/2.7de9531c.chunk.js.LICENSE.txt",
     "static/media/ambitionsimulator.png": "/sydnie.chau/static/media/ambitionsimulator.9bdd5912.png",
     "static/media/blossom.jpg": "/sydnie.chau/static/media/blossom.fa511e38.jpg",
     "static/media/cloudchat.png": "/sydnie.chau/static/media/cloudchat.a9d83df3.png",
@@ -33,8 +33,8 @@
   "entrypoints": [
     "static/js/runtime-main.3576f03d.js",
     "static/css/2.f3cffc9e.chunk.css",
-    "static/js/2.1f9578ac.chunk.js",
+    "static/js/2.7de9531c.chunk.js",
     "static/css/main.c9a4219f.chunk.css",
-    "static/js/main.1fc55fb8.chunk.js"
+    "static/js/main.0788255b.chunk.js"
   ]
 }
