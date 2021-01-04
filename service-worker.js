@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sydnie.chau/precache-manifest.c9d23e4f09f99f3c1bab6b6928a916ca.js"
+  "/sydnie.chau/precache-manifest.07f1c1c33e1b0a16bbd3ab43ba368906.js"
 );
 
 self.addEventListener('message', (event) => {
