@@ -31,7 +31,18 @@ export default Nav;
 function NavDesktop() {
   return (
     <Navbar sticky="top" className="color-nav" variant="dark">
-      <Navbar.Brand>Sydnie Chau</Navbar.Brand>
+      <Link
+        style={{
+          fontSize: "20px",
+        }}
+        to="me"
+        spy={true}
+        smooth={true}
+        offset={-70}
+        duration={500}
+      >
+        Sydnie Chau
+      </Link>
       <Link
         style={{
           paddingLeft: "2%",
@@ -55,6 +66,18 @@ function NavDesktop() {
         duration={500}
       >
         Projects
+      </Link>
+      <Link
+        style={{
+          paddingLeft: "2%",
+        }}
+        to="experiences"
+        spy={true}
+        smooth={true}
+        offset={-70}
+        duration={500}
+      >
+        Experience
       </Link>
       <Navbar.Toggle />
       <Navbar.Collapse className="justify-content-end">

@@ -34,7 +34,7 @@ function ContactDesktop() {
           paddingTop: "1%",
         }}
       >
-        Contact Me
+        Contact Me :)
       </h1>
       <div style={{ marginLeft: "41%", paddingTop: "1%" }}>
         <a href="https://www.linkedin.com/in/sydniechau">
@@ -95,7 +95,7 @@ function ContactMobile() {
           paddingTop: "1%",
         }}
       >
-        Contact Me
+        Contact Me :)
       </h1>
       <div style={{ marginLeft: "18%", paddingTop: "1%" }}>
         <a href="https://www.linkedin.com/in/sydniechau">

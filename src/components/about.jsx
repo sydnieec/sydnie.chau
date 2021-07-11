@@ -52,25 +52,39 @@ function AboutDesktop() {
           paddingTop: "10%",
         }}
       >
-        👋 Hi, I'm Sydnie! I am currently 1A student at the University of
+        👋 Hi, I'm Sydnie! I am currently a 2A student at the University of
         Waterloo studying Computer Science and Business Administration Double
         Degree joint with Wilfrid Laurier University. I love to code! In my
         spare time, I enjoy working on side projects and you can find some of my
         proudest projects below.
       </h3>
+
       <h3
         style={{
           display: "flex",
           justifyContent: "center",
           alignItems: "center",
           paddingLeft: "15%",
-          paddingRight: "15%",
           paddingTop: "5%",
+          paddingRight: "15%",
         }}
       >
-        💻 My passion for computer science began in 2018 when I began my first
-        android application. Ever since, I have been working on building side
-        projects in Mobile and Web Development.
+        💻 I have been particularly interested in working with web and mobile
+        development. But, I am always looking for the next challenge and chance
+        to explore new technologies.
+      </h3>
+      <h3
+        style={{
+          // display: "flex",
+          // justifyContent: "center",
+
+          paddingLeft: "15%",
+          paddingRight: "15%",
+
+          color: "#07c4d9",
+        }}
+      >
+        I am currently seeking Winter 2022 internship opportunities!
       </h3>
     </div>
   );
@@ -99,11 +113,11 @@ function AboutMobile() {
           paddingTop: "10%",
         }}
       >
-        👋 Hi, I'm Sydnie! I am currently 1A student at the University of
+        👋 Hi, I'm Sydnie! I am currently a 2A student at the University of
         Waterloo studying Computer Science and Business Administration Double
         Degree joint with Wilfrid Laurier University. I love to code! In my
         spare time, I enjoy working on side projects and you can find some of my
-        proudest projects below.
+        proudest projects below!
       </h5>
       <h5
         style={{
@@ -115,9 +129,19 @@ function AboutMobile() {
           paddingTop: "5%",
         }}
       >
-        💻 My passion for computer science began in 2018 when I began my first
-        android application. Ever since, I have been working on building side
-        projects in Mobile and Web Development.
+        💻 I have been particularly interested in working with web and mobile
+        development. But, I am always looking for the next challenge and chance
+        to explore new technologies.
+      </h5>
+      <h5
+        style={{
+          alignItems: "center",
+          paddingLeft: "15%",
+          paddingRight: "15%",
+          color: "#07c4d9",
+        }}
+      >
+        I am currently seeking Winter 2022 internship opportunities!
       </h5>
     </div>
   );

@@ -32,7 +32,7 @@ const imgstyle = {
 
 function MeDesktop() {
   return (
-    <div>
+    <div className="me" id="me">
       <h1
         style={{
           display: "flex",
@@ -43,7 +43,7 @@ function MeDesktop() {
       >
         Sydnie Chau
       </h1>
-      <h3 className="center">Student Software Developer</h3>
+      <h3 className="center"> Software Engineering Intern</h3>
       <div className="center" style={{ paddingTop: "3%" }}>
         <a href="https://www.linkedin.com/in/sydniechau">
           <img
@@ -103,7 +103,7 @@ function MeDesktop() {
 
 function MeMobile() {
   return (
-    <div>
+    <div className="me" id="me">
       <h1
         style={{
           display: "flex",
@@ -114,7 +114,7 @@ function MeMobile() {
       >
         Sydnie Chau
       </h1>
-      <h3 className="center">Student Software Developer</h3>
+      <h3 className="center">Software Engineering Intern</h3>
       <div className="center" style={{ paddingTop: "15%" }}>
         <a href="https://www.linkedin.com/in/sydniechau">
           <img

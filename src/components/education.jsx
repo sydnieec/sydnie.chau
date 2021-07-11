@@ -103,11 +103,11 @@ function EducationDesktop() {
       </h1>
       <div style={{ marginLeft: "1%" }}>
         <img
-          style={{ maxWidth: "30%", maxHeight: "20%", paddingRight: "1%" }}
+          style={{ maxWidth: "20%", maxHeight: "10%", paddingRight: "1%" }}
           src={require("../images/waterloo.png")}
         />
         <img
-          style={{ maxWidth: "30%", maxHeight: "20%" }}
+          style={{ maxWidth: "20%", maxHeight: "10%" }}
           src={require("../images/laurier.png")}
         />
       </div>

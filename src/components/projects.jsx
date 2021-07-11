@@ -43,7 +43,7 @@ function ProjectDesktop() {
         style={{
           display: "flex",
           paddingRight: "5%",
-          paddingLeft: "3%",
+          paddingLeft: "5%",
           paddingTop: "3%",
         }}
       >
@@ -145,7 +145,7 @@ function ProjectDesktop() {
             <Card.Title>Diagnosis Bot</Card.Title>
             <Card.Text>
               Diagnosis Bot is a chatbot that is designed to give users a short,
-              safe an anonymous health checkup simply from their app.
+              safe and anonymous health checkup simply from their app.
             </Card.Text>
             <Button href="https://youtu.be/sxsP0BuF8LE" variant="primary">
               Demo
@@ -168,7 +168,7 @@ function ProjectDesktop() {
         style={{
           display: "flex",
           paddingRight: "5%",
-          paddingLeft: "3%",
+          paddingLeft: "5%",
           paddingTop: "3%",
         }}
       >
@@ -247,7 +247,7 @@ function ProjectDesktop() {
           </Card.Body>
           <Card.Footer>
             <small className="text-muted">
-              #C# #Unity Game Engine #Unity Cloud Github
+              #C# #Unity Game Engine #Unity Cloud
             </small>
           </Card.Footer>
         </Card>
@@ -366,7 +366,7 @@ function ProjectMobile() {
         <Card.Body>
           <Card.Title>Blossom</Card.Title>
           <Card.Text>
-            A pocket garden as an IOS app! Visually recognise any plants or
+            A pocket garden as an IOS app! Visually recognize any plants or
             diagnose your plant's health by uploading a photo, and keep a
             collection of your plant history as well as special flowers you've
             seen around the world!
@@ -404,7 +404,7 @@ function ProjectMobile() {
           <Card.Title>Diagnosis Bot</Card.Title>
           <Card.Text>
             Diagnosis Bot is a chatbot that is designed to give users a short,
-            safe an anonymous health checkup simply from their app.
+            safe and anonymous health checkup simply from their app.
           </Card.Text>
           <Button href="https://youtu.be/sxsP0BuF8LE" variant="primary">
             Demo
@@ -497,7 +497,7 @@ function ProjectMobile() {
         </Card.Body>
         <Card.Footer>
           <small className="text-muted">
-            #C# #Unity Game Engine #Unity Cloud Github
+            #C# #Unity Game Engine #Unity Cloud
           </small>
         </Card.Footer>
       </Card>
@@ -536,7 +536,9 @@ function ProjectMobile() {
           </Button>{" "}
         </Card.Body>
         <Card.Footer>
-          <small className="text-muted">#Javascript #React #Azure Maps</small>
+          <small className="text-muted">
+            #Javascript #React #Azure Maps #MongoDB #Django
+          </small>
         </Card.Footer>
       </Card>
     </div>

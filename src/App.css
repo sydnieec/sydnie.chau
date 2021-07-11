@@ -42,7 +42,27 @@ body {
   background-color: rgb(227, 254, 255);
 }
 .projects {
+  text-align: center;
   background-color: rgb(242, 255, 254);
+}
+.experiences {
+  display: inline-block;
+  height: 100vh;
+}
+.job-photo {
+  padding-top: 5%;
+  float: left;
+}
+.job {
+  padding-inline: 25%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+#job-description {
+  /* display: inline-block; */
+  /* float: right; */
+  padding-left: 30%;
+  padding-right: 20%;
 }
 .education {
   background-color: rgb(227, 254, 255);

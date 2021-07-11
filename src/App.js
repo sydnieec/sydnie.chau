@@ -7,6 +7,7 @@ import About from "./components/about";
 import Projects from "./components/projects";
 import Education from "./components/education";
 import Contact from "./components/contact";
+import Experience from "./components/experience";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <Me />
       <About />
       <Projects />
+      <Experience />
       <Education />
       <Contact />
     </React.Fragment>
