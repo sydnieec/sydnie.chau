@@ -25,7 +25,7 @@ export default Experiences;
 
 function ExperiencesMobile() {
   return (
-    <div className="experiences">
+    <div>
       <h1
         style={{
           display: "flex",
@@ -36,14 +36,27 @@ function ExperiencesMobile() {
       >
         Experiences
       </h1>
-      <div className="job">
+      <div>
         <img
-          className="job-photo"
-          style={{ maxWidth: "20%", maxHeight: "20%" }}
+          style={{
+            paddingTop: "5%",
+            paddingBottom: "5%",
+            maxWidth: "50%",
+            maxHeight: "50%",
+            display: "block",
+            marginLeft: "auto",
+            marginRight: "auto",
+            width: "50%",
+          }}
           src={require("../images/ss&c.png")}
           alt="ss&c"
         />
-        <div id="job-description">
+        <div
+          style={{
+            padding: "50px",
+            paddingTop: "0px",
+          }}
+        >
           <h3>
             <a
               style={{
@@ -57,7 +70,7 @@ function ExperiencesMobile() {
           <h4>Full Stack Developer Intern</h4>
           <p>May 2021 - August 2021</p>
           <p>Toronto, ON</p>
-          <p className="job-description">
+          <p>
             SS&C Technologies is the world’s largest hedge fund and private
             equity administrators, operating a full technology stack across
             securities accounting, office operations and more. As a full stack
@@ -67,14 +80,27 @@ function ExperiencesMobile() {
           </p>
         </div>
       </div>
-      <div className="job">
+      <div>
         <img
-          className="job-photo"
-          style={{ maxWidth: "20%", maxHeight: "20%" }}
+          style={{
+            paddingTop: "5%",
+            paddingBottom: "5%",
+            maxWidth: "50%",
+            maxHeight: "50%",
+            display: "block",
+            marginLeft: "auto",
+            marginRight: "auto",
+            width: "50%",
+          }}
           src={require("../images/hack+.png")}
           alt="hack+ "
         />
-        <div id="job-description">
+        <div
+          style={{
+            padding: "50px",
+            paddingTop: "0px",
+          }}
+        >
           <h3>
             <a
               style={{
@@ -88,7 +114,7 @@ function ExperiencesMobile() {
           <h4>Software Engineering Intern </h4>
           <p>January 2021 - July 2021</p>
           <p>Fremont, CA (Remote)</p>
-          <p className="job-description">
+          <p>
             Hack+ is a platform that enables students to launch start-ups,
             events and nonprofits. As a software engineering intern, using
             <b> ReactJS </b> I developed our front-end platform that allows
