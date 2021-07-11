@@ -82,7 +82,7 @@ function EducationMobile() {
           paddingBottom: "8%",
         }}
       >
-        2020-2025
+        Sept. 2020 - Apr. 2025
       </h7>
     </div>
   );
@@ -141,7 +141,7 @@ function EducationDesktop() {
           paddingBottom: "8%",
         }}
       >
-        2020-2025
+        Sept. 2020 - Apr. 2025
       </h5>
     </div>
   );
