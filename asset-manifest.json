@@ -1,22 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.1ced261f.chunk.css",
-    "main.js": "/static/js/main.401125b0.chunk.js",
-    "main.js.map": "/static/js/main.401125b0.chunk.js.map",
+    "main.js": "/static/js/main.b82234aa.chunk.js",
+    "main.js.map": "/static/js/main.b82234aa.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3010160c.js",
     "runtime-main.js.map": "/static/js/runtime-main.3010160c.js.map",
     "static/css/2.f3cffc9e.chunk.css": "/static/css/2.f3cffc9e.chunk.css",
-    "static/js/2.cd54ee33.chunk.js": "/static/js/2.cd54ee33.chunk.js",
-    "static/js/2.cd54ee33.chunk.js.map": "/static/js/2.cd54ee33.chunk.js.map",
+    "static/js/2.e9c0adae.chunk.js": "/static/js/2.e9c0adae.chunk.js",
+    "static/js/2.e9c0adae.chunk.js.map": "/static/js/2.e9c0adae.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ac53a8ad325d3c3b086703b05e3610d8.js": "/precache-manifest.ac53a8ad325d3c3b086703b05e3610d8.js",
+    "precache-manifest.ff1012587316147d6588edc0779f3fe1.js": "/precache-manifest.ff1012587316147d6588edc0779f3fe1.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.f3cffc9e.chunk.css.map": "/static/css/2.f3cffc9e.chunk.css.map",
     "static/css/main.1ced261f.chunk.css.map": "/static/css/main.1ced261f.chunk.css.map",
-    "static/js/2.cd54ee33.chunk.js.LICENSE.txt": "/static/js/2.cd54ee33.chunk.js.LICENSE.txt",
+    "static/js/2.e9c0adae.chunk.js.LICENSE.txt": "/static/js/2.e9c0adae.chunk.js.LICENSE.txt",
     "static/media/ambitionsimulator.png": "/static/media/ambitionsimulator.9bdd5912.png",
     "static/media/blossom.jpg": "/static/media/blossom.fa511e38.jpg",
     "static/media/cloudchat.png": "/static/media/cloudchat.a9d83df3.png",
+    "static/media/databricksicon.jpeg": "/static/media/databricksicon.64f11e25.jpeg",
     "static/media/diagnosisbot.png": "/static/media/diagnosisbot.1ab14cce.png",
     "static/media/emailicon1.png": "/static/media/emailicon1.91b2f526.png",
     "static/media/facebook.png": "/static/media/facebook.3c341790.png",
@@ -35,8 +36,8 @@
   "entrypoints": [
     "static/js/runtime-main.3010160c.js",
     "static/css/2.f3cffc9e.chunk.css",
-    "static/js/2.cd54ee33.chunk.js",
+    "static/js/2.e9c0adae.chunk.js",
     "static/css/main.1ced261f.chunk.css",
-    "static/js/main.401125b0.chunk.js"
+    "static/js/main.b82234aa.chunk.js"
   ]
 }
