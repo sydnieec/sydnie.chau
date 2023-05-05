@@ -49,6 +49,7 @@ function EducationMobile() {
 
       <h7
         style={{
+          fontWeight: "bold",
           display: "flex",
           justifyContent: "center",
           alignItems: "center",
@@ -57,7 +58,7 @@ function EducationMobile() {
           paddingBottom: "8%",
         }}
       >
-        University of Waterloo and Wilfrid Laurier University
+        University of Waterloo
       </h7>
       <h7
         style={{
@@ -69,8 +70,19 @@ function EducationMobile() {
           paddingBottom: "8%",
         }}
       >
-        Honours Bachelor of Computer Science and Business Administration Double
-        Degree
+        Bachelor of Computer Science (Honours)
+      </h7>
+      <h7
+        style={{
+          display: "flex",
+          justifyContent: "center",
+          alignItems: "center",
+          paddingLeft: "15%",
+          paddingRight: "15%",
+          paddingBottom: "8%",
+        }}
+      >
+        Business Administration Specialization with Wilfrid Laurier University
       </h7>
       <h7
         style={{
@@ -112,6 +124,16 @@ function EducationDesktop() {
         />
       </div>
 
+      <h2
+        style={{
+          fontWeight: "bold",
+          display: "flex",
+          justifyContent: "center",
+          alignItems: "center",
+        }}
+      >
+        University of Waterloo
+      </h2>
       <h3
         style={{
           display: "flex",
@@ -119,7 +141,7 @@ function EducationDesktop() {
           alignItems: "center",
         }}
       >
-        University of Waterloo and Wilfrid Laurier University
+        Bachelor of Computer Science (Honours)
       </h3>
       <h5
         style={{
@@ -128,8 +150,7 @@ function EducationDesktop() {
           alignItems: "center",
         }}
       >
-        Honours Bachelor of Computer Science and Business Administration Double
-        Degree
+        Business Administration Specialization with Wilfrid Laurier University
       </h5>
       <h5
         style={{
@@ -141,7 +162,7 @@ function EducationDesktop() {
           paddingBottom: "8%",
         }}
       >
-        Sept. 2020 - Apr. 2025
+        Sept. 2020 - Apr. 2024
       </h5>
     </div>
   );

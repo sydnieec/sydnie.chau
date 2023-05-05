@@ -48,6 +48,139 @@ function ExperiencesMobile() {
             marginRight: "auto",
             width: "50%",
           }}
+          src={require("../images/databricksicon.jpeg")}
+          alt="databricks"
+        />
+        <div
+          style={{
+            padding: "50px",
+            paddingTop: "0px",
+          }}
+        >
+          <h3>
+            <a
+              style={{
+                color: "#11cbd7",
+              }}
+              href="https://www.databricks.com/"
+            >
+              Databricks
+            </a>
+          </h3>
+          <h4>Software Engineering Intern</h4>
+          <p>May 2023 - August 2023</p>
+          <p>San Francisco, CA</p>
+          <p>
+            Incoming Software Engineering Intern on the Search Infrastructure
+            Team. Databricks is a cloud-based data analytics and artificial
+            intelligence (AI) platform that provides an integrated workspace for
+            data engineers, data scientists, and business analysts to
+            collaborate and perform a variety of data-related tasks.
+          </p>
+        </div>
+      </div>
+      <div>
+        <img
+          style={{
+            paddingTop: "5%",
+            paddingBottom: "5%",
+            maxWidth: "50%",
+            maxHeight: "50%",
+            display: "block",
+            marginLeft: "auto",
+            marginRight: "auto",
+            width: "50%",
+          }}
+          src={require("../images/linkedinicon.png")}
+          alt="linkedin"
+        />
+        <div
+          style={{
+            padding: "50px",
+            paddingTop: "0px",
+          }}
+        >
+          <h3>
+            <a
+              style={{
+                color: "#11cbd7",
+              }}
+              href="https://www.linkedin.com/feed/"
+            >
+              LinkedIn
+            </a>
+          </h3>
+          <h4>Software Engineering Intern</h4>
+          <p>Sept 2022 - Dec 2022</p>
+          <p>Sunnyvale, CA</p>
+          <p>
+            LinkedIn is a professional networking platform that allows users to
+            connect with colleagues and professionals in their industry. During
+            this internship, I worked on the Media View team as a mobile
+            engineering intern. In support of carousels, our new media format I
+            took part in designing and implementing preview features to ensure a
+            smooth rollout for our users.
+          </p>
+        </div>
+      </div>
+      <div>
+        <img
+          style={{
+            paddingTop: "5%",
+            paddingBottom: "5%",
+            maxWidth: "50%",
+            maxHeight: "50%",
+            display: "block",
+            marginLeft: "auto",
+            marginRight: "auto",
+            width: "50%",
+          }}
+          src={require("../images/stripe.png")}
+          alt="stripe"
+        />
+        <div
+          style={{
+            padding: "50px",
+            paddingTop: "0px",
+          }}
+        >
+          <h3>
+            <a
+              style={{
+                color: "#11cbd7",
+              }}
+              href="https://stripe.com/en-ca"
+            >
+              Stripe
+            </a>
+          </h3>
+          <h4>Software Engineering Intern</h4>
+          <p>January 2022 - April 2022</p>
+          <p>Seattle, WA</p>
+          <p>
+            Stripe is a technology company that builds economic infrastructure
+            for the internet. During this internship, I worked on critical
+            launch blockers to support the team launch of{" "}
+            <a href="https://www.linkedin.com/posts/stripe_ach-direct-debit-payments-on-stripe-bank-activity-6914603493336993792-4hFh?utm_source=linkedin_share&utm_medium=member_desktop_webs">
+              ACH Direct Debits
+            </a>{" "}
+            (the second-largest payment method supported by Stripe)
+            collaborating with cross-functional teams under a tight timeline.
+          </p>
+        </div>
+      </div>
+      <div>
+        <img
+          style={{
+            paddingTop: "5%",
+            paddingBottom: "5%",
+            maxWidth: "50%",
+            maxHeight: "50%",
+            display: "block",
+            marginLeft: "auto",
+            marginRight: "auto",
+            width: "50%",
+          }}
           src={require("../images/ss&c.png")}
           alt="ss&c"
         />
@@ -142,6 +275,104 @@ function ExperiencesDesktop() {
       >
         Experiences
       </h1>
+
+      <div className="job">
+        <img
+          className="job-photo"
+          style={{ maxWidth: "20%", maxHeight: "20%" }}
+          src={require("../images/databricksicon.jpeg")}
+          alt="databricks"
+        />
+        <div id="job-description">
+          <h3>
+            <a
+              style={{
+                color: "#11cbd7",
+              }}
+              href="https://www.databricks.com/"
+            >
+              Databricks
+            </a>
+          </h3>
+          <h4> Software Engineering Intern</h4>
+          <p>May 2023 - Sept 2023</p>
+          <p>San Francisco, CA</p>
+          <p className="job-description">
+            Incoming Software Engineering Intern on the Search Infrastructure
+            Team. Databricks is a cloud-based data analytics and artificial
+            intelligence (AI) platform that provides an integrated workspace for
+            data engineers, data scientists, and business analysts to
+            collaborate and perform a variety of data-related tasks.
+          </p>
+        </div>
+      </div>
+
+      <div className="job">
+        <img
+          className="job-photo"
+          style={{ maxWidth: "20%", maxHeight: "20%" }}
+          src={require("../images/linkedinicon.png")}
+          alt="linkedin"
+        />
+        <div id="job-description">
+          <h3>
+            <a
+              style={{
+                color: "#11cbd7",
+              }}
+              href="https://www.linkedin.com/feed/"
+            >
+              LinkedIn
+            </a>
+          </h3>
+          <h4> Software Engineering Intern</h4>
+          <p>Sept 2022 - Dec 2022</p>
+          <p>Sunnyvale, CA</p>
+          <p className="job-description">
+            LinkedIn is a professional networking platform that allows users to
+            connect with colleagues and professionals in their industry. During
+            this internship, I worked on the Media View team as a mobile
+            engineering intern. In support of carousels, our new media format, I
+            took part in designing and implementing preview features to ensure a
+            smooth rollout for our users.
+          </p>
+        </div>
+      </div>
+
+      <div className="job">
+        <img
+          className="job-photo"
+          style={{ maxWidth: "20%", maxHeight: "20%" }}
+          src={require("../images/stripe.png")}
+          alt="stripe"
+        />
+        <div id="job-description">
+          <h3>
+            <a
+              style={{
+                color: "#11cbd7",
+              }}
+              href="https://stripe.com/en-ca"
+            >
+              Stripe
+            </a>
+          </h3>
+          <h4> Software Engineering Intern</h4>
+          <p>January 2022 - April 2022</p>
+          <p>Seattle, WA</p>
+          <p className="job-description">
+            Stripe is a technology company that builds economic infrastructure
+            for the internet. During this internship, I worked on critical
+            launch blockers to support the team launch of{" "}
+            <a href="https://www.linkedin.com/posts/stripe_ach-direct-debit-payments-on-stripe-bank-activity-6914603493336993792-4hFh?utm_source=linkedin_share&utm_medium=member_desktop_web">
+              ACH Direct Debits
+            </a>{" "}
+            (the second-largest payment method supported by Stripe)
+            collaborating with cross-functional teams under a tight timeline.
+          </p>
+        </div>
+      </div>
+
       <div className="job">
         <img
           className="job-photo"

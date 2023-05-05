@@ -52,11 +52,10 @@ function AboutDesktop() {
           paddingTop: "10%",
         }}
       >
-        👋 Hi, I'm Sydnie! I am currently a 2A student at the University of
-        Waterloo studying Computer Science and Business Administration Double
-        Degree joint with Wilfrid Laurier University. I love to code! In my
-        spare time, I enjoy working on side projects and you can find some of my
-        proudest projects below.
+        👋 Hi, I'm Sydnie! I am currently a student at the University of
+        Waterloo studying Computer Science with a Business specialization. I
+        love to code! In my spare time, I enjoy working on side projects and you
+        can find some of my proudest projects below.
       </h3>
 
       <h3
@@ -69,9 +68,9 @@ function AboutDesktop() {
           paddingRight: "15%",
         }}
       >
-        💻 I have been particularly interested in working with web and mobile
-        development. But, I am always looking for the next challenge and chance
-        to explore new technologies.
+        💻 I have been particularly interested in working with backend and
+        fullstack development. But, I am always looking for the next challenge
+        and chance to explore new technologies.
       </h3>
       <h3
         style={{
@@ -84,7 +83,8 @@ function AboutDesktop() {
           color: "#07c4d9",
         }}
       >
-        I am currently seeking Winter 2022 internship opportunities!
+        Please feel free to reach out to me for any open software engineering
+        roles! :)
       </h3>
     </div>
   );
@@ -113,11 +113,10 @@ function AboutMobile() {
           paddingTop: "10%",
         }}
       >
-        👋 Hi, I'm Sydnie! I am currently a 2A student at the University of
-        Waterloo studying Computer Science and Business Administration Double
-        Degree joint with Wilfrid Laurier University. I love to code! In my
-        spare time, I enjoy working on side projects and you can find some of my
-        proudest projects below!
+        👋 Hi, I'm Sydnie! I am currently a student at the University of
+        Waterloo studying Computer Science with a Business specialization. I
+        love to code! In my spare time, I enjoy working on side projects and you
+        can find some of my proudest projects below!
       </h5>
       <h5
         style={{
@@ -129,9 +128,9 @@ function AboutMobile() {
           paddingTop: "5%",
         }}
       >
-        💻 I have been particularly interested in working with web and mobile
-        development. But, I am always looking for the next challenge and chance
-        to explore new technologies.
+        💻 I have been particularly interested in working with backend and
+        fullstack development. But, I am always looking for the next challenge
+        and chance to explore new technologies.
       </h5>
       <h5
         style={{
@@ -141,7 +140,8 @@ function AboutMobile() {
           color: "#07c4d9",
         }}
       >
-        I am currently seeking Winter 2022 internship opportunities!
+        Please feel free to reach out to me for any open software engineering
+        roles! :)
       </h5>
     </div>
   );
